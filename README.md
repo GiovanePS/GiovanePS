@@ -2,19 +2,16 @@
   <a href="https://github.com/GiovanePS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovaneps&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaneps&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<!--
-**GiovanePS/GiovanePS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div><br>
+  
+- 🔭 I’m currently working on [Laboratório Bridge](https://portal.bridge.ufsc.br/);
+- 📫 How to reach me: giovanespace@gmail.com
+<br>
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/giovane-pimentel-de-sousa-8338a8230/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/giovane_ps" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
