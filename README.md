@@ -6,3 +6,4 @@
   
 - 🔭 I’m currently working with IT Infraestructure and Support at [Laboratório Bridge](https://portal.bridge.ufsc.br/);
 - 📫 How to reach me: giovanespace@gmail.com
+- Agora que descobri como sair do Vim... não quero mais ir embora.
