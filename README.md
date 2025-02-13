@@ -6,6 +6,6 @@
   
 - 🔭 I’m currently working with Software Development at [LabSEC](https://labsec.ufsc.br/);
 - 📫 How to reach me: giovanespace@gmail.com
-- Agora que descobri como sair do Vim... não quero mais ir embora.
+- Now that I've discovered how to exit Vim... I don't wanna leave anymore.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,py,neovim,postgres,docker,debian)](https://skillicons.dev)
