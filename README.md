@@ -1,8 +1,8 @@
 # About me
 <div>
   <a href="https://github.com/GiovanePS">
-  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api?username=giovaneps&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api/top-langs/?username=giovaneps&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api?username=GiovanePS&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api/top-langs/?username=GiovanePS&layout=compact&langs_count=7&theme=github_dark"/>
 </div><br>
   
 - 🔭 I’m currently working with Software Development at [LabSEC](https://labsec.ufsc.br/);
