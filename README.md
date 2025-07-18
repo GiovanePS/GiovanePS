@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api/top-langs/?username=GiovanePS&layout=compact&langs_count=7&theme=github_dark"/>
 </div><br>
   
-- 🔭 I’m currently working with Software Development at [LabSEC](https://labsec.ufsc.br/);
+- 🔭 I’m currently working with Software Development and Blockchain at [LabSEC](https://labsec.ufsc.br/);
 - Now that I've discovered how to exit Vim... I don't wanna leave anymore.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,py,neovim,postgres,docker,arch)](https://github.com/GiovanePS)
