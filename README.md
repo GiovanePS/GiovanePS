@@ -8,7 +8,7 @@
 - 🔭 I’m currently working with Software Development and Blockchain at [LabSEC](https://labsec.ufsc.br/);
 - Now that I've discovered how to exit Vim... I don't wanna leave anymore.
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,py,neovim,postgres,docker,arch)](https://github.com/GiovanePS)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,react,py,solidity,neovim,postgres,docker,arch)](https://github.com/GiovanePS)
 <br>
 [![image](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/GiovanePS)
 [![image](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://github.com/GiovanePS)
