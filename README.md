@@ -1,10 +1,4 @@
 # About me
-<div>
-  <a href="https://github.com/GiovanePS">
-  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api?username=GiovanePS&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats-giovane.vercel.app/api/top-langs/?username=GiovanePS&layout=compact&langs_count=7&theme=github_dark"/>
-</div><br>
-
 - Now that I've discovered how to exit Vim... I don't wanna leave anymore.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,react,py,neovim,postgres,docker,arch)](https://github.com/GiovanePS)
